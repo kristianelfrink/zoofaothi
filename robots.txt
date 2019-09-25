@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cijeeyuem.webignition.net/sitemap.xml
